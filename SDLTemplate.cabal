@@ -1,5 +1,7 @@
 Name:                SDLTemplate
 Version:             1.0
+License:             MIT
+License-file:        LICENSE.txt
 Category:            Game
 Build-type:          Custom
 Extra-source-files:
